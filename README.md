@@ -1,5 +1,5 @@
 ### Chest X_rays Diagnosis
-**this project is on explores medical image diagnosis by building a state-of-the-art chest X-ray classifier using Keras.
+**this project is on exploration of medical image diagnosis by building a state-of-the-art chest X-ray classifier using Keras.
 the dataset is available [here](https://nihcc.app.box.com/v/ChestXray-NIHCC).
 the following tasks were performed:**
 1. Pre-process and prepare a real-world X-ray dataset
